@@ -1,0 +1,7 @@
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\bin\Debug\YSR 2 (calculator).exe.config
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\bin\Debug\YSR 2 (calculator).exe
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\bin\Debug\YSR 2 (calculator).pdb
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\obj\Debug\YSR 2 (calculator).csproj.AssemblyReference.cache
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\obj\Debug\YSR 2 (calculator).csproj.CoreCompileInputs.cache
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\obj\Debug\YSR 2 (calculator).exe
+C:\Users\vlad9\OneDrive\Рабочий стол\Новая папка\YSR 2 (calculator)\YSR 2 (calculator)\obj\Debug\YSR 2 (calculator).pdb
